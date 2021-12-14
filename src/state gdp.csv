@@ -1,0 +1,241 @@
+﻿Date,GDP value,State,GDP percent
+1/06/1990,16717,Australian Capital Territory ,0
+1/06/1990,296303,New South Wales ,0
+1/06/1990,10345,Northern Territory ,0
+1/06/1990,122163,Queensland ,0
+1/06/1990,59656,South Australia ,0
+1/06/1990,17665,Tasmania ,0
+1/06/1990,197151,Victoria ,0
+1/06/1990,79947,Western Australia ,0
+1/06/1991,17077,Australian Capital Territory ,2.2
+1/06/1991,297605,New South Wales ,0.4
+1/06/1991,10647,Northern Territory ,2.9
+1/06/1991,122232,Queensland ,0.1
+1/06/1991,59442,South Australia ,-0.4
+1/06/1991,17603,Tasmania ,-0.4
+1/06/1991,191759,Victoria ,-2.7
+1/06/1991,80778,Western Australia ,1
+1/06/1992,17097,Australian Capital Territory ,0.1
+1/06/1992,298393,New South Wales ,0.3
+1/06/1992,10266,Northern Territory ,-3.6
+1/06/1992,126149,Queensland ,3.2
+1/06/1992,58367,South Australia ,-1.8
+1/06/1992,17984,Tasmania ,2.2
+1/06/1992,189027,Victoria ,-1.4
+1/06/1992,83548,Western Australia ,3.4
+1/06/1993,17696,Australian Capital Territory ,3.5
+1/06/1993,306852,New South Wales ,2.8
+1/06/1993,10278,Northern Territory ,0.1
+1/06/1993,134148,Queensland ,6.3
+1/06/1993,60025,South Australia ,2.8
+1/06/1993,18632,Tasmania ,3.6
+1/06/1993,198000,Victoria ,4.7
+1/06/1993,87476,Western Australia ,4.7
+1/06/1994,18406,Australian Capital Territory ,4
+1/06/1994,318537,New South Wales ,3.8
+1/06/1994,10131,Northern Territory ,-1.4
+1/06/1994,140780,Queensland ,4.9
+1/06/1994,61834,South Australia ,3
+1/06/1994,19053,Tasmania ,2.3
+1/06/1994,204381,Victoria ,3.2
+1/06/1994,93354,Western Australia ,6.7
+1/06/1995,19095,Australian Capital Territory ,3.7
+1/06/1995,330671,New South Wales ,3.8
+1/06/1995,10631,Northern Territory ,4.9
+1/06/1995,148682,Queensland ,5.6
+1/06/1995,62524,South Australia ,1.1
+1/06/1995,19390,Tasmania ,1.8
+1/06/1995,210481,Victoria ,3
+1/06/1995,98549,Western Australia ,5.6
+1/06/1996,19123,Australian Capital Territory ,0.1
+1/06/1996,343824,New South Wales ,4
+1/06/1996,11395,Northern Territory ,7.2
+1/06/1996,153706,Queensland ,3.4
+1/06/1996,64940,South Australia ,3.9
+1/06/1996,19986,Tasmania ,3.1
+1/06/1996,218186,Victoria ,3.7
+1/06/1996,103896,Western Australia ,5.4
+1/06/1997,19629,Australian Capital Territory ,2.6
+1/06/1997,356568,New South Wales ,3.7
+1/06/1997,11667,Northern Territory ,2.4
+1/06/1997,162127,Queensland ,5.5
+1/06/1997,66927,South Australia ,3.1
+1/06/1997,20077,Tasmania ,0.5
+1/06/1997,227867,Victoria ,4.4
+1/06/1997,107213,Western Australia ,3.2
+1/06/1998,20402,Australian Capital Territory ,3.9
+1/06/1998,369270,New South Wales ,3.6
+1/06/1998,12601,Northern Territory ,8
+1/06/1998,168635,Queensland ,4
+1/06/1998,70517,South Australia ,5.4
+1/06/1998,20881,Tasmania ,4
+1/06/1998,240933,Victoria ,5.7
+1/06/1998,113268,Western Australia ,5.6
+1/06/1999,21500,Australian Capital Territory ,5.4
+1/06/1999,387712,New South Wales ,5
+1/06/1999,14075,Northern Territory ,11.7
+1/06/1999,179242,Queensland ,6.3
+1/06/1999,72106,South Australia ,2.3
+1/06/1999,21378,Tasmania ,2.4
+1/06/1999,255148,Victoria ,5.9
+1/06/1999,116939,Western Australia ,3.2
+1/06/2000,21981,Australian Capital Territory ,2.2
+1/06/2000,404850,New South Wales ,4.4
+1/06/2000,13885,Northern Territory ,-1.3
+1/06/2000,187308,Queensland ,4.5
+1/06/2000,74660,South Australia ,3.5
+1/06/2000,21414,Tasmania ,0.2
+1/06/2000,264801,Victoria ,3.8
+1/06/2000,121137,Western Australia ,3.6
+1/06/2001,23118,Australian Capital Territory ,5.2
+1/06/2001,411286,New South Wales ,1.6
+1/06/2001,14361,Northern Territory ,3.4
+1/06/2001,192765,Queensland ,2.9
+1/06/2001,77122,South Australia ,3.3
+1/06/2001,21192,Tasmania ,-1
+1/06/2001,268713,Victoria ,1.5
+1/06/2001,122969,Western Australia ,1.5
+1/06/2002,23810,Australian Capital Territory ,3
+1/06/2002,419311,New South Wales ,2
+1/06/2002,15378,Northern Territory ,7.1
+1/06/2002,205841,Queensland ,6.8
+1/06/2002,79882,South Australia ,3.6
+1/06/2002,22129,Tasmania ,4.4
+1/06/2002,279448,Victoria ,4
+1/06/2002,131200,Western Australia ,6.7
+1/06/2003,24712,Australian Capital Territory ,3.8
+1/06/2003,428112,New South Wales ,2.1
+1/06/2003,15471,Northern Territory ,0.6
+1/06/2003,212503,Queensland ,3.2
+1/06/2003,81310,South Australia ,1.8
+1/06/2003,22766,Tasmania ,2.9
+1/06/2003,289224,Victoria ,3.5
+1/06/2003,138059,Western Australia ,5.2
+1/06/2004,25012,Australian Capital Territory ,1.2
+1/06/2004,442714,New South Wales ,3.4
+1/06/2004,15570,Northern Territory ,0.6
+1/06/2004,225939,Queensland ,6.3
+1/06/2004,83202,South Australia ,2.3
+1/06/2004,23912,Tasmania ,5
+1/06/2004,298886,Victoria ,3.3
+1/06/2004,146469,Western Australia ,6.1
+1/06/2005,25861,Australian Capital Territory ,3.4
+1/06/2005,450746,New South Wales ,1.8
+1/06/2005,15787,Northern Territory ,1.4
+1/06/2005,238219,Queensland ,5.4
+1/06/2005,84430,South Australia ,1.5
+1/06/2005,24390,Tasmania ,2
+1/06/2005,311197,Victoria ,4.1
+1/06/2005,151620,Western Australia ,3.5
+1/06/2006,26543,Australian Capital Territory ,2.6
+1/06/2006,457016,New South Wales ,1.4
+1/06/2006,17010,Northern Territory ,7.7
+1/06/2006,250498,Queensland ,5.2
+1/06/2006,86297,South Australia ,2.2
+1/06/2006,25176,Tasmania ,3.2
+1/06/2006,317619,Victoria ,2.1
+1/06/2006,158729,Western Australia ,4.7
+1/06/2007,28358,Australian Capital Territory ,6.8
+1/06/2007,465480,New South Wales ,1.9
+1/06/2007,18791,Northern Territory ,10.5
+1/06/2007,267333,Queensland ,6.7
+1/06/2007,88355,South Australia ,2.4
+1/06/2007,25947,Tasmania ,3.1
+1/06/2007,326877,Victoria ,2.9
+1/06/2007,168938,Western Australia ,6.4
+1/06/2008,29738,Australian Capital Territory ,4.9
+1/06/2008,477101,New South Wales ,2.5
+1/06/2008,19162,Northern Territory ,2
+1/06/2008,279738,Queensland ,4.6
+1/06/2008,92502,South Australia ,4.7
+1/06/2008,26839,Tasmania ,3.4
+1/06/2008,338154,Victoria ,3.5
+1/06/2008,177371,Western Australia ,5
+1/06/2009,30586,Australian Capital Territory ,2.8
+1/06/2009,482539,New South Wales ,1.1
+1/06/2009,20437,Northern Territory ,6.7
+1/06/2009,283635,Queensland ,1.4
+1/06/2009,95215,South Australia ,2.9
+1/06/2009,27375,Tasmania ,2
+1/06/2009,344311,Victoria ,1.8
+1/06/2009,183919,Western Australia ,3.7
+1/06/2010,31331,Australian Capital Territory ,2.4
+1/06/2010,492315,New South Wales ,2
+1/06/2010,20147,Northern Territory ,-1.4
+1/06/2010,287659,Queensland ,1.4
+1/06/2010,97099,South Australia ,2
+1/06/2010,27605,Tasmania ,0.8
+1/06/2010,348730,Victoria ,1.3
+1/06/2010,192854,Western Australia ,4.9
+1/06/2011,32446,Australian Capital Territory ,3.6
+1/06/2011,504340,New South Wales ,2.4
+1/06/2011,20635,Northern Territory ,2.4
+1/06/2011,289605,Queensland ,0.7
+1/06/2011,98612,South Australia ,1.6
+1/06/2011,28130,Tasmania ,1.9
+1/06/2011,358943,Victoria ,2.9
+1/06/2011,201434,Western Australia ,4.4
+1/06/2012,33696,Australian Capital Territory ,3.9
+1/06/2012,516038,New South Wales ,2.3
+1/06/2012,21607,Northern Territory ,4.7
+1/06/2012,305645,Queensland ,5.5
+1/06/2012,99569,South Australia ,1
+1/06/2012,28333,Tasmania ,0.7
+1/06/2012,366246,Victoria ,2
+1/06/2012,220648,Western Australia ,9.5
+1/06/2013,34563,Australian Capital Territory ,2.6
+1/06/2013,525816,New South Wales ,1.9
+1/06/2013,24189,Northern Territory ,12
+1/06/2013,314029,Queensland ,2.7
+1/06/2013,100633,South Australia ,1.1
+1/06/2013,28259,Tasmania ,-0.3
+1/06/2013,370232,Victoria ,1.1
+1/06/2013,233689,Western Australia ,5.9
+1/06/2014,34871,Australian Capital Territory ,0.9
+1/06/2014,535464,New South Wales ,1.8
+1/06/2014,24502,Northern Territory ,1.3
+1/06/2014,320742,Queensland ,2.1
+1/06/2014,101438,South Australia ,0.8
+1/06/2014,28552,Tasmania ,1
+1/06/2014,378812,Victoria ,2.3
+1/06/2014,247281,Western Australia ,5.8
+1/06/2015,35681,Australian Capital Territory ,2.3
+1/06/2015,549534,New South Wales ,2.6
+1/06/2015,25105,Northern Territory ,2.5
+1/06/2015,323849,Queensland ,1
+1/06/2015,102333,South Australia ,0.9
+1/06/2015,28865,Tasmania ,1.1
+1/06/2015,389391,Victoria ,2.8
+1/06/2015,253346,Western Australia ,2.5
+1/06/2016,37062,Australian Capital Territory ,3.9
+1/06/2016,570349,New South Wales ,3.8
+1/06/2016,25601,Northern Territory ,2
+1/06/2016,331726,Queensland ,2.4
+1/06/2016,102602,South Australia ,0.3
+1/06/2016,29364,Tasmania ,1.7
+1/06/2016,402564,Victoria ,3.4
+1/06/2016,256383,Western Australia ,1.2
+1/06/2017,38280,Australian Capital Territory ,3.3
+1/06/2017,588454,New South Wales ,3.2
+1/06/2017,25977,Northern Territory ,1.5
+1/06/2017,339652,Queensland ,2.4
+1/06/2017,104125,South Australia ,1.5
+1/06/2017,29685,Tasmania ,1.1
+1/06/2017,418885,Victoria ,4.1
+1/06/2017,251941,Western Australia ,-1.7
+1/06/2018,39686,Australian Capital Territory ,3.7
+1/06/2018,603143,New South Wales ,2.5
+1/06/2018,26501,Northern Territory ,2
+1/06/2018,352248,Queensland ,3.7
+1/06/2018,106477,South Australia ,2.3
+1/06/2018,30710,Tasmania ,3.5
+1/06/2018,432993,Victoria ,3.4
+1/06/2018,258120,Western Australia ,2.5
+1/06/2019,40879,Australian Capital Territory ,3
+1/06/2019,614409,New South Wales ,1.9
+1/06/2019,26109,Northern Territory ,-1.5
+1/06/2019,357044,Queensland ,1.4
+1/06/2019,107990,South Australia ,1.4
+1/06/2019,31819,Tasmania ,3.6
+1/06/2019,446079,Victoria ,3
+1/06/2019,260640,Western Australia ,1
